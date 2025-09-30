@@ -2,7 +2,7 @@
 # Attracteur de Lorenz sur OLED
 
 ## Description
-L’attracteur de Lorenz est un exemple célèbre en **systèmes dynamiques et chaos**.  
+L’attracteur de Lorenz est un exemple célèbre en **systèmes dynamiques et chaotiques**.  
 Il illustre comment de petites variations dans les conditions initiales peuvent conduire à des trajectoires très différentes, ce qu’on appelle l’effet papillon.  
 
 ## Utilité
