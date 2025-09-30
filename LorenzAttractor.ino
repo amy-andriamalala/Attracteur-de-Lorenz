@@ -41,7 +41,8 @@ void setup() {
 }
 
 void loop() {
- 
+
+  //équations différentielles de l'attracteur de Lorenz
   float dx = sigma * (y - x);
   float dy = x * (rho - z) - y;
   float dz = x * y - beta * z;
