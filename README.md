@@ -4,7 +4,7 @@ Petit projet Arduino qui affiche l’attracteur de Lorenz sur un écran OLED SSD
 
 ## Aperçu
 
-![Attracteur](oledAttracteur.png)   <!-- ton image -->
+![Attracteur](oledAttracteur.jpg)   <!-- ton image -->
 ![Animation](attractorLorenzVid.gif)    <!-- ton GIF -->
 
 ## Matériel nécessaire
