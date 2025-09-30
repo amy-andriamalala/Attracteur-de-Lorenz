@@ -1,5 +1,5 @@
 
-<img src="oledAttracteur.jpg" alt="Attracteur" width="400">
+<img src="oledAttracteur.jpg" alt="Attracteur" width="600">
 
 # Attracteur de Lorenz sur OLED
 
