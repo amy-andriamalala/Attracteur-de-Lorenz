@@ -1,3 +1,4 @@
+![Attracteur](oledAttracteur.jpg) 
 # Attracteur de Lorenz sur OLED
 
 ## Description
