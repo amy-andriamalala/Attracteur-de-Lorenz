@@ -1,4 +1,5 @@
-![Attracteur](oledAttracteur.jpg) 
+
+<img src="oledAttracteur.jpg" alt="Attracteur" width="400">
 # Attracteur de Lorenz sur OLED
 
 ## Description
